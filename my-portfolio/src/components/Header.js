@@ -4,6 +4,7 @@ function Header() {
   return (
     <header className="bg-dark text-white text-center py-5">
       <h1>Mi Portafolio</h1>
+      <p>Cristobal Jimenez Sanabria</p>
       <p>Desarrollador Full Stack</p>
     </header>
   );
